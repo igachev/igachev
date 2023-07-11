@@ -49,9 +49,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/igachev/igachev/output/snake.svg" alt="Snake animation" />
 
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
