@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivelin Gachev</h1>
-<h3 align="center">frontend developer student</h3>
+<h3>Email:</h3>
+<h4>ivelingachev1@gmail.com</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igachev&label=Profile%20views&color=0e75b6&style=flat" alt="igachev" /> </p>
 
